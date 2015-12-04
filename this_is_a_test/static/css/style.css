@@ -1,0 +1,4 @@
+.logged_out {
+	background: url("{%static 'img/%}") no-repeat center 30px;
+    background-size: 90%;
+}
